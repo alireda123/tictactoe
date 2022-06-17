@@ -1,0 +1,51 @@
+{
+  "name": "react-typescript",
+  "version": "1.0.0",
+  "description": "React and TypeScript example starter project",
+  "keywords": [
+    "typescript",
+    "react",
+    "starter"
+  ],
+  "main": "src/index.tsx",
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "6.1.1",
+    "@fortawesome/fontawesome-svg-core": "6.1.1",
+    "@fortawesome/free-solid-svg-icons": "6.1.1",
+    "@fortawesome/react-fontawesome": "0.1.18",
+    "@twind/typescript-plugin": "0.3.5",
+    "@types/jquery": "3.5.14",
+    "@types/node": "17.0.42",
+    "@vim-geek/coc-tailwind-intellisense": "0.6.2",
+    "fireworks-js": "1.4.0",
+    "font-awesome": "4.7.0",
+    "framer-motion": "6.3.11",
+    "jquery": "3.6.0",
+    "node": "17.7.2",
+    "nodejs": "0.0.0",
+    "perlin.js": "1.0.0",
+    "react": "18.2.0",
+    "react-access-router": "2.0.10",
+    "react-awesome-snippets": "0.0.24",
+    "react-dom": "18.0.0",
+    "react-scripts": "5.0.1",
+    "tailwindcss": "3.1.2"
+  },
+  "devDependencies": {
+    "@types/react": "17.0.20",
+    "@types/react-dom": "17.0.9",
+    "typescript": "4.4.2"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}
